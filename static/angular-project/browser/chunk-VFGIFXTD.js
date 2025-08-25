@@ -1,0 +1,1 @@
+var e={apiKey:"3190dbe5ea274010abc6001903687a9d",seriesApi:"https://api.themoviedb.org/3/tv/popular?api_key=3190dbe5ea274010abc6001903687a9d&language=es",moviesApi:"https://api.themoviedb.org/3/movie/popular?api_key=3190dbe5ea274010abc6001903687a9d&language=es",movieDetail:"https://api.themoviedb.org/3/movie/",serieDetail:"https://api.themoviedb.org/3/tv/"};export{e as a};
